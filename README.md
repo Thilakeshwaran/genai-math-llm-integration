@@ -1,10 +1,10 @@
 ## Integration of a Mathematical Calulations with a Chat Completion System using LLM Function-Calling
 
 ### AIM:
-To design and implement a Python function for coverting miles to kilometer, integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
+To design and implement a Python function for finding the area of a circle, and integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
 
 ### PROBLEM STATEMENT:
-You need to create a Python program that can intelligently convert miles to kilometers by leveraging OpenAI's function calling capability.
+You need to create a Python program that can intelligently calculate the area of a circle by leveraging OpenAI/Google function calling capability.
 ### DESIGN STEPS:
 
 #### STEP 1:
@@ -82,5 +82,4 @@ if __name__ == "__main__":
 
 
 ## RESULT:
-Hence,the python program to design and implement a Python function for converting miles to km,
-integrating it with a chat completion system utilizing the function-calling feature of a large language model (LLM) is written successfully and executed.
+Hence, the Python program to design and implement a Python function for calculating the area of a circle and integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM) is written successfully and executed.
